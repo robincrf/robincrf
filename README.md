@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]  
+#  Hi, I'm Robin  
 
-🚀 **Full-Stack Developer | Embedded Systems Enthusiast | Hackathon Explorer**
+ **Full-Stack Project | data & IA (Python, C++) | Hackathon Explorer**
 
 ---
 
@@ -11,20 +11,20 @@ Over time, I transitioned toward **system-level programming** and **data analysi
 
 ---
 
-### 🧠 Tech Stack
+###  Tech Stack
 
-**💻 Languages**
+** Languages**
 - C / C++ / Python  
 - JavaScript (ES6+), TypeScript  
 - HTML5, CSS3,   
 
-**⚙️ Frameworks & Tools**
+** Frameworks & Tools**
 - Vue.js / React.js  
 - Node.js, Express  
 - STM32 HAL / FreeRTOS  
 - Git, Docker, VSCode, PlatformIO  
 
-**📊 Others**
+** Others**
 - Signal processing and data analytics in **C++**
 - Hackathons (like **KPMG Hackathon**, where I used Python for analytics and prototyping)
 - Algorithmic projects (like **"Liste d’attente"** implemented in pure C)
@@ -55,8 +55,8 @@ Over time, I transitioned toward **system-level programming** and **data analysi
 
 ---
 
-### 📫 Connect with Me
-🌍 https://robincrf.github.io/Portfolio2/
+###  Connect with Me
+🥉 https://robincrf.github.io/Portfolio2/
 💼 https://www.linkedin.com/in/robin-crifo-691492331/ 
 📧 robin.crifo@etu.emse.fr
 
