@@ -43,8 +43,8 @@ Over time, I transitioned toward **system-level programming** and **data analysi
 
 ###  What I’m Currently Learning
 - Advanced C++ (templates, design patterns, multithreading)  
-- Embedded Linux & RTOS concepts  
-- Rust (for safe systems programming)  
+- Quant analysis
+- Python (ML/Visualisation)
 
 ---
 
