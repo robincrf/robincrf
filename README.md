@@ -5,10 +5,10 @@
 ---
 
 ### 🌐 About Me
-I’m a passionate developer who started out in **web development**, crafting responsive and modern websites using **Vue.js** and **React** — especially focusing on **e-commerce** solutions and portfolio projects.
+I’m a passionate developer who started out in **web development**, crafting responsive and modern websites using **Vue.js** and **React** — especially focusing on **e-commerce** solutions and portfolio projects then diving deep into **C / C++** for performance-critical and hardware-related applications, particularly with **STM32 microcontrollers**.
 
-Over time, I transitioned toward **system-level programming** and **data analysis**, diving deep into **C / C++** for performance-critical and hardware-related applications, particularly with **STM32 microcontrollers**.
 
+Over time, I transitioned toward **Machine Learning** and **data analysis**, 
 ---
 
 ###  Tech Stack
