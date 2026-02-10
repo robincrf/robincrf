@@ -1,67 +1,55 @@
-#  Hi, I'm Robin  
+# Hi, I'm Robin 👋  
+**Data Science & Data Engineering | Python | Quant & Analytics**
 
- **Full-Stack Project | data & IA (Python, C++) | Hackathon Explorer**
-
----
-
-### 🌐 About Me
-I’m a passionate developer who started out in **web development**, crafting responsive and modern websites using **Vue.js** and **React** — especially focusing on **e-commerce** solutions and portfolio projects then diving deep into **C / C++** for performance-critical and hardware-related applications, particularly with **STM32 microcontrollers**.
-
-
-Over time, I transitioned toward **Machine Learning** and **data analysis**, 
----
-
-###  Tech Stack
-
-** Languages**
-- C / C++ / Python  
-- JavaScript (ES6+), TypeScript  
-- HTML5, CSS3,   
-
-** Frameworks & Tools**
-- Vue.js / React.js  
-- Node.js, Express  
-- STM32 HAL / FreeRTOS  
-- Git, Docker, VSCode, PlatformIO  
-
-** Others**
-- Signal processing and data analytics in **C++**
-- Hackathons (like **KPMG Hackathon**, where I used Python for analytics and prototyping)
-- Algorithmic projects (like **"Liste d’attente"** implemented in pure C)
+I’m an engineering student focused on transforming raw data into reliable, actionable insights.  
+My background spans software engineering, embedded systems, and web development — now fully dedicated to **data science and analytics**.
 
 ---
 
-###  Featured Projects
-
-🔹 **E-commerce Portfolio Website** – Vue & React based store and portfolio hybrid, showcasing modern UI/UX  
-🔹 **STM32 Embedded Projects** – low-level hardware control and real-time signal processing  
-🔹 **Liste d’attente (Queue Manager in C)** – data structure and memory management practice project  
-🔹 **ECN Signal Analytics (C++)** – processing and analysis of electrical signals  
-🔹 **KPMG Hackathon (Python)** – analytics + automation challenges  
+## 🚀 What I Do
+- Build **data pipelines** and automate data workflows  
+- Perform **data analysis & visualization**  
+- Work on **financial & quantitative data**  
+- Develop tools that support **data-driven decisions**
 
 ---
 
-###  What I’m Currently Learning
-- Advanced C++ (templates, design patterns, multithreading)  
-- Quant analysis
-- Python (ML/Visualisation)
+## 🧠 Tech Stack
+
+**Languages**
+- Python • SQL • C/C++ • JavaScript/TypeScript
+
+**Data & ML**
+- Pandas • NumPy • Matplotlib • Seaborn • Plotly  
+- scikit-learn • Data Cleaning • EDA • Time Series  
+
+**Tools**
+- Git • Docker • Linux • Jupyter • VSCode  
+- APIs • Web Scraping
 
 ---
 
-###  Highlights
--  Engineering student passionate about software integration  
--  Hackathon (KPMG)  
--  From web frontends to microcontrollers — full-stack in every sense  
+## 📊 Featured Data Projects
+
+### 🔹 Data Quality Pipeline
+Python pipeline for data ingestion, cleaning, anomaly detection and automated reporting to ensure dataset reliability.
+
+### 🔹 Stock Market Analysis
+Time series analysis of financial data, technical indicators, volatility and trend exploration.
+
+### 🔹 Smart MCQ Assistant
+Data-driven learning tool using statistical analysis to improve revision and efficiency.
 
 ---
 
-###  Connect with Me
-🥉 https://robincrf.github.io/Portfolio2/
-💼 https://www.linkedin.com/in/robin-crifo-691492331/ 
-📧 robin.crifo@etu.emse.fr
+## 🎯 Currently Learning
+- Advanced Python for Data Science  
+- Machine Learning & Quantitative Finance  
+- Scalable Data Engineering
 
 ---
 
----
-
-
+## 🤝 Let’s Connect
+🌐 Portfolio → https://robincrf.github.io/Portfolio2/  
+💼 LinkedIn → https://www.linkedin.com/in/robin-crifo-691492331/  
+📧 Email → robin.crifo@etu.emse.fr
